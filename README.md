@@ -71,7 +71,7 @@ Add your "secret STAT 315 ID" to the readme file.
 i. Click on the pen icon on the right-hand upper corner of the readme section.  
 ii. Edit the readme document by adding your name to the document.
 
-e.g. \#Git-Exercise: STAT ID 927
+ \#Git-Exercise: STAT ID 493
 
 ## Step 6:
 Pull the updated readme back to the local device.
@@ -84,3 +84,5 @@ git pull
 ## Resources:
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
 GitHub Documentation: https://docs.github.com/en/repositories
+
+\#Git-Exercise: STAT ID 493
